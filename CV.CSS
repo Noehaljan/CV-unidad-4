@@ -1,0 +1,26 @@
+h1{
+    /*comentario en css*/
+    color: rgb(212, 0, 255); /*color en las letras*/
+    background-color: rgb(0, 255, 128); /*color de fondo*/
+}
+
+h2{
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{color: rgb(84,150,105);
+    line-height: 25px;
+}
+
+.destacados{
+    font-weight:bold;
+    font-size: 19px;
+    font-family: Arial;
+}
+#rojo{
+    width: 250px;
+    height: 250px;
+    background-color: lightcoral;
+    border: 5px solid blueviolet;
